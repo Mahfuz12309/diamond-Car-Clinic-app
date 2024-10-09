@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905278309821",
+    "project_id": "diamondcarclinic-6e309",
+    "storage_bucket": "diamondcarclinic-6e309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905278309821:android:83eac3406cf289a5707ed4",
+        "android_client_info": {
+          "package_name": "com.example.diamond_car_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfqZxAKgwGo5K3gZf3TdJ2hFYN6jJ9vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
